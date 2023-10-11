@@ -1,6 +1,3 @@
-package com.example.revisitingandroid.main.contents.designPattern.Creational.Singleton
-
-
 class BillPughSingleton private constructor( var data : Int) {
     // Private constructor <-- Kelas ini doang yang bisa buat nya
     companion object {

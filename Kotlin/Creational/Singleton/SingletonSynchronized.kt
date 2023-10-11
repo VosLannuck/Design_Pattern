@@ -1,4 +1,3 @@
-package com.example.revisitingandroid.main.contents.designPattern.Creational.Singleton
 class SingletonSynchronized {
 
     var data : Int = 0

@@ -1,5 +1,3 @@
-package com.example.revisitingandroid.main.contents.designPattern.Creational.Singleton
-
 class SingletonHighLevel {
     private var data : Int = 0
 

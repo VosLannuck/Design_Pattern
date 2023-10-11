@@ -1,5 +1,4 @@
-package com.example.revisitingandroid.main.contents.designPattern.Creational.Builder
-
+package Creational;
 // Class Marksman
 // Class Assassin
 // Class Tank
